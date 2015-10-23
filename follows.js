@@ -12,8 +12,8 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= '9ZMumzKOYsywNeM8rbdhGDGlRsA5VIm83az2Yhqvn4AnjfLz', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [556036846], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= 'r0p1aUWSXvQdBrP2KSS3Y66W4rH6WVKBTogATGw5rxNLbzVQ', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [1744197415], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Watteco LoRa', // Replaces Xively logo in the header
 		dataDuration	= '1week', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 600, // Default interval for data to be displayed (in seconds)
